@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color: #ffffff; /* pastel amarillo suave */
+    text-align: center;
+}
+
+h2 {
+    color: #000000; 
+}
+
+table {
+    margin: 0 auto;
+    background-color: #00bcfa; 
+    border: 2px solid #ffffff;
+}
+
+td {
+    padding: 10px;
+    background-color: #ffffff; 
+    border: 1px solid #034069;
+    font-size: 18px;
+}
+
+img {
+    border-radius: 8px;
+    border: 2px solid #012948; 
+}

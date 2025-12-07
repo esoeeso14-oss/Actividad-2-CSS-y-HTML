@@ -18,3 +18,29 @@ td {
 table {
     border-collapse: collapse;
 }
+/* Centrar el contenido */
+body {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Tabla */
+table {
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+}
+
+/* Bordes y espaciado */
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+/* Título de la tabla */
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}

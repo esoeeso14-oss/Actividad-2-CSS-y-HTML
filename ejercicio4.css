@@ -24,4 +24,27 @@ td {
 img {
     border-radius: 8px;
     border: 2px solid #012948; 
+}/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
+
+
+table {
+    border-collapse: separate;
+    border-spacing: 6px;
+    margin: auto;
+}
+
+/* Celdas */
+td {
+    border: 1px solid #000;
+    padding: 6px;          
+}
+
+/* Imágenes */
+img {
+    width: 200px; 
+}
+
